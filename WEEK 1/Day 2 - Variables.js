@@ -1,0 +1,1 @@
+let newVariable = "My First Variable";
